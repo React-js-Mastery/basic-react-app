@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 30px;
+}
+
+#header {
+    background-color: rgb(240, 230, 239);
+    padding: 10px 20px;
+    box-shadow: 2px 3px 5px #262626;
+    text-align: center;
+    color: rgb(224, 255, 22);
+    text-shadow: 2px 3px 5px #262626;
+    -webkit-text-stroke: 1px #000;    
+}
+
+#about {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    background-color: burlywood;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+#about-me {
+    margin-left: 5px;
+    margin-top: 10px;
+}
